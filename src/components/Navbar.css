@@ -27,7 +27,7 @@
 @media screen and (max-width: 940px) {
     .nav-menu {
         position: fixed;
-        left: -100%;
+        left:-100%;
         top: 100px;
         flex-direction: column;
         justify-content: center;
