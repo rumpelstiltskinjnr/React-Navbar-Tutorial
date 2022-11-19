@@ -1,3 +1,20 @@
+# Hamburger Nav-Bar Project
+
+### [Live Site](https://react-navbar-hamburger.netlify.app/)
+
+![cap](https://user-images.githubusercontent.com/116870256/202855748-47f43393-f2b2-44fd-aac0-b52352b99e76.JPG)
+
+
+## This is a Hamburger Nav-Bar Project
+
+We will Learn extensively how to create Hamburger Menu Bar also in this project we are going to use REACT.JS for the frontend along with Functional component and react HOOKS.
+
+By, the end of the project you will have a clear understanding of How to create Hamburger Menu Bar along with functional components, react hooks and react folder structure.
+
+set up:
+-run ```npm && npm start``` for the project file main directory.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
