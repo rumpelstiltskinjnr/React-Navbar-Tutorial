@@ -1,4 +1,4 @@
-# Hamburger Nav-Bar Project
+# Hamburger Nav-Bar and Landing Page
 
 ### [Live Site](https://react-navbar-hamburger.netlify.app/)
 
